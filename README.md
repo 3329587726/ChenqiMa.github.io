@@ -18,8 +18,8 @@ The application provides an intuitive interface for users to explore rainfall pa
 ---
 
 ## 🛠 Technologies Used
-- HTML / CSS / JavaScript
-- Data visualization libraries (e.g., Chart.js / D3.js if applicable)
+- Rstudio
+- Data visualization libraries 
 - GitHub Pages for deployment
 
 ---
