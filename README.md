@@ -1,6 +1,9 @@
 # ChenqiMa/Design-Rainfall-Depth.github.io
 # Design Rainfall Depth Analysis
 
+## 📄 License
+This project is licensed under the MIT License.
+
 ## 📌 Project Overview
 This project presents a rainfall depth analysis system designed to support hydrological studies and engineering design. It focuses on analyzing rainfall data and generating design rainfall depth under different return periods.
 
